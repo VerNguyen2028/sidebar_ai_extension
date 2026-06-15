@@ -30,8 +30,8 @@ Step 2 – The Backend
 503 — Gemini is either down or getting absolutely slammed by traffic. Touch grass and try again later.
 
 
---- Have a nice day ---
-<span style="color:red">Hello</span>
+## Have a nice day 😄😄😄
+
 - ![AI](https://img.shields.io/badge/AI-Enabled-blue)
 
 <img src="x.jpg" width="800" height="800">
