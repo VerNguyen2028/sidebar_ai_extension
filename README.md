@@ -17,7 +17,7 @@ Clone the backend repo, then sit there and wait like a medieval peasant while it
 
 - The AI model in use is Gemini 2.5 Flash. If you're swimming in money, feel free to upgrade to a Pro model. Just tweak the backend code and go nuts.
 - Flash models have quota limits — shocking, I know. When you hit the wall, just swap in a new Gemini API key. Ask a friend, a colleague, your dealer, whoever.
-- Too lazy to manually start the backend every time? Same, honestly. Use **PM2 + watch** on Windows or **systemd + nodemon** on Ubuntu to auto-start it like a civilized human. For Mac users... I genuinely have no idea, ask someone else or ask an AI.
+- Too lazy to manually start the backend every time? Same, honestly. Use **PM2 + WATCH** on Windows or **SYSTEMD + NODEMON** on Ubuntu to auto-start it like a civilized human. For Mac users... I genuinely have no idea, ask someone else or ask an AI.
 
 ## What hell errors you might encounter 
 
