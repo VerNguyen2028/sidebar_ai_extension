@@ -8,12 +8,13 @@ So I had way too much free time and zero self-control, so naturally I teamed up 
     Step 2 – The Backend
         Clone the backend repo, then sit there and wait like a medieval peasant while it downloads. Run npm install to grab the dependencies, slap in your own API key, and fire it up with node index.js.           Now that sidebar?
 
---- Miscellaneous Life Advice & Semi-Important Notes ---
+## Miscellaneous Life Advice & Semi-Important Notes
 
 The AI model in use is Gemini 2.5 Flash. If you're swimming in money, feel free to upgrade to a Pro model. Just tweak the backend code and go nuts.
 Flash models have quota limits — shocking, I know. When you hit the wall, just swap in a new Gemini API key. Ask a friend, a colleague, your dealer, whoever.
 Too lazy to manually start the backend every time? Same, honestly. Use PM2 on Windows or systemd on Ubuntu to auto-start it like a civilized human. For Mac users... I genuinely have no idea, ask someone else or ask an AI.
---- What hell errors you might encounter --- 
+
+## What hell errors you might encounter 
 
 400, 402, 403 — Your API key is wrong or you passed in nonsense.
 404 — The AI model you asked for doesn't exist.
@@ -23,5 +24,6 @@ Too lazy to manually start the backend every time? Same, honestly. Use PM2 on Wi
 
 
 --- Have a nice day ---
+- ![AI](https://img.shields.io/badge/AI-Enabled-blue)
 
-<img src="x.jpg" width="800" height="400">
+<img src="x.jpg" width="800" height="800">
