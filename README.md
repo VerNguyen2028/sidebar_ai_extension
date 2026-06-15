@@ -24,4 +24,4 @@ And you can see extension's sidebar interface, but you can use it right now. Let
 
 --- Have a nice day ---
 
-<img src="images/home.png" width="800">
+<img src="x.jpg" width="800">
