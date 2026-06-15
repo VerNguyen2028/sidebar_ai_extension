@@ -31,6 +31,7 @@ Step 2 – The Backend
 
 
 --- Have a nice day ---
+<span style="color:red">Hello</span>
 - ![AI](https://img.shields.io/badge/AI-Enabled-blue)
 
 <img src="x.jpg" width="800" height="800">
