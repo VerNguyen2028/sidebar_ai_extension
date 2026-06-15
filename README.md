@@ -6,10 +6,12 @@ So I had way too much free time and zero self-control, so naturally I teamed up 
 ## How to Actually Install This Thing
 
 Step 1 – The Frontend
-        Grab the latest release right here. Then drag it into your browser's extensions page under Developer Mode — you know the drill, it's basically the same everywhere. Congrats, you now have a sidebar that looks great but does absolutely nothing. Cool. Don't touch it yet.
+
+Grab the latest release right [here](https://github.com/VerNguyen2028/sidebar_ai_extension)/releases/latest). Then drag it into your browser's extensions page under Developer Mode — you know the drill, it's basically the same everywhere. Congrats, you now have a sidebar that looks great but does absolutely nothing. Cool. Don't touch it yet.
         
 Step 2 – The Backend
-        Clone the backend repo, then sit there and wait like a medieval peasant while it downloads. Run npm install to grab the dependencies, slap in your own API key, and fire it up with node index.js.           Now that sidebar?
+ 
+Clone the backend repo, then sit there and wait like a medieval peasant while it downloads. Run npm install to grab the dependencies, slap in your own API key, and fire it up with node index.js.         Now that sidebar?
 
 ## Miscellaneous Life Advice & Semi-Important Notes
 
