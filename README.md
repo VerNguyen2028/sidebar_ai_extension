@@ -1,4 +1,4 @@
-# sidebar_ai_extension
+# sidebar_ai_extension (IN PPENDING UPDATES)
 ## Boredom + AI = This Cursed Little Project
 
 So I had way too much free time and zero self-control, so naturally I teamed up with an AI to birth this thing into existence. You're welcome.
